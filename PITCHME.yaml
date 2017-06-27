@@ -1,1 +1,17 @@
-theme : moon
+theme : sky
+
+logo : logo.png
+
+footnote : "© 2017 sample Inc."
+
+slide-number: true
+
+highlight : monokai
+
+autoslide : 5000
+
+loop : true
+
+transition : fade
+
+charts : true
